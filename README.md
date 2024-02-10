@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AnnonymousChai
+- 👀 I’m interested in Web & App developing, Data Anylization
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: Nothin
